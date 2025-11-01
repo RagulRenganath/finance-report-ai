@@ -1,2 +1,3 @@
-# finance-report-ai
-An AI-powered financial report generator using Streamlit
+# Finance Report AI
+A simple Streamlit web app that generates summary reports from uploaded financial data.
+
